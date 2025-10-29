@@ -1,0 +1,23 @@
+# Ignore service configuration files
+*Service.json
+
+# Local environment files
+.env
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build output
+bin/
+obj/
+dist/
+build/
+
+# Dependency directories
+node_modules/
+packages/
+
+# Debug logs
+*.log
+npm-debug.log*
