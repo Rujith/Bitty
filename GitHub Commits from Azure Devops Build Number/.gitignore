@@ -1,6 +1,9 @@
 # Ignore service configuration files
 *Service.json
 
+# Ignore generated report files
+*commit_report.md
+
 # Local environment files
 .env
 
