@@ -1,0 +1,9 @@
+{
+  "ORG": "<DevOps Organization Name>",
+  "PROJECT": "<DevOps Project Name>",
+  "DEFINITION_ID": <DevOps Build Definition ID>, 
+  "BRANCH": "refs/heads/main",
+  "AZURE_PAT": "<Azure DevOps Personal Access Token>",
+  "GITHUB_REPO": "<GitHub Repository Name (Organization/Repo)>",
+  "BUILD_NUMBERS": ["1.0.335", "1.0.336", "<Azure DevOps Build Numbers>"]
+}
